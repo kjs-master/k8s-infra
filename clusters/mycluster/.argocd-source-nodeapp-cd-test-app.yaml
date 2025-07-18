@@ -1,3 +1,4 @@
 kustomize:
   images:
-  - kimjunsu700/nodeapp-git:1.2.0
+  - kimjunsu700/nodeapp-git:1.1.0
+  - 242337484181.dkr.ecr.ap-northeast-2.amazonaws.com/nodeapp02:1.0.0
